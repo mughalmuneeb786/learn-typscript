@@ -1,0 +1,2 @@
+# learn-typscript
+learning tsc
